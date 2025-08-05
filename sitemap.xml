@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://widescopedaily.github.io/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Fact Briefs -->
+  <url>
+    <loc>https://widescopedaily.github.io/fact-briefs/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://widescopedaily.github.io/fact-briefs/2025-08-03-gen-z-unveiled.html</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Global News -->
+  <url>
+    <loc>https://widescopedaily.github.io/global-news/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://widescopedaily.github.io/global-news/2025-08-03-kremlin-trump-nuclear-comments.html</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Crypto News -->
+  <url>
+    <loc>https://widescopedaily.github.io/crypto-news/</loc>
+    <priority>0.8</priority>
+  </url>
+  <!-- Example article (replace/add your own if any) -->
+  <!--
+  <url>
+    <loc>https://widescopedaily.github.io/crypto-news/your-article-name.html</loc>
+    <priority>0.6</priority>
+  </url>
+  -->
+
+  <!-- Analysis -->
+  <url>
+    <loc>https://widescopedaily.github.io/analysis/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Trends -->
+  <url>
+    <loc>https://widescopedaily.github.io/trends/</loc>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
