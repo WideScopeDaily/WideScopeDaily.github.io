@@ -106,5 +106,22 @@
     <div>© 2025 Wide Scope Daily. All rights reserved.</div>
   </footer>
 
+  <!-- Cookie Consent Banner -->
+<div id="cookie-banner" style="position: fixed; bottom: 0; left: 0; width: 100%; background: #0B1A33; color: white; padding: 10px; text-align: center; font-size: 14px; z-index: 9999;">
+  This website uses cookies to improve your experience. 
+  <a href="privacy.html" style="color: #FFD700; text-decoration: underline;">Read Privacy Policy</a>.
+  <button id="accept-cookies" style="background: #FFD700; border: none; color: #0B1A33; padding: 5px 10px; margin-left: 10px; cursor: pointer; font-weight: bold;">Accept</button>
+</div>
+
+<script>
+  document.getElementById('accept-cookies').addEventListener('click', function() {
+    document.getElementById('cookie-banner').style.display = 'none';
+    localStorage.setItem('cookiesAccepted', 'true');
+  });
+
+  if (localStorage.getItem('cookiesAccepted')) {
+    document.getElementById('cookie-banner').style.display = 'none';
+  }
+      </script>
 </body>
 </html>
