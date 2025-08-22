@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <header style="text-align:center; margin-bottom:24px;">
-  <a href="/WideScopeDaily.github.io/" style="text-decoration:none; display:inline-flex; flex-direction:column; align-items:center; gap:4px;">
-    <img src="/logo.png" alt="Wide Scope Daily logo" style="height:80px; width:auto; border-radius:8px; object-fit:contain; box-shadow:0 12px 32px rgba(63,167,214,0.2);">
-    <div style="font-size:0.9rem; color:#2d4f67; font-style:italic;">News That Travels the Globe</div>
-  </a>
   <meta charset="utf-8"/>
   <title>Global Headlines | Wide Scope Daily</title>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
@@ -63,36 +58,52 @@
 </head>
 <body>
 
+  <!-- Header -->
+  <header style="text-align:center; margin-bottom:24px;">
+    <a href="/WideScopeDaily.github.io/" style="text-decoration:none; display:inline-flex; flex-direction:column; align-items:center; gap:4px;">
+      <img src="/logo.png" alt="Wide Scope Daily logo" style="height:80px; width:auto; border-radius:8px; object-fit:contain; box-shadow:0 12px 32px rgba(63,167,214,0.2);">
+      <div style="font-size:0.9rem; color:#2d4f67; font-style:italic;">News That Travels the Globe</div>
+    </a>
+  </header>
+
   <h1>Global Headlines</h1>
   <p style="margin-bottom:16px;">Latest important stories from around the world, curated for clarity and impact.</p>
 
-  <!-- Featured article -->
+  <!-- Article 1 -->
   <div class="card">
     <a class="title" href="russia-nuclear-response.html">
       Russia Softens Response to Trump’s Nuclear Submarine Remarks Amid Rising Tensions
     </a>
     <div class="meta">August 3, 2025 • Wide Scope Daily</div>
     <p>The Kremlin has downplayed recent comments by US President Donald Trump regarding the deployment of nuclear submarines closer to Russian waters, stressing stability while diplomatic tensions simmer. An upcoming US envoy visit could open dialogue, though both sides remain cautious as key deadlines approach.</p>
-  <a class="title" href="global-news/frank-caprio-death.html">
-  Judge Frank Caprio Passes Away: A Legacy of Compassion
-</a>
-<div class="meta">August 22, 2025 • Wide Scope Daily</div>
-<p>Judge Frank Caprio, beloved worldwide for his compassion and fairness in court, has passed away. Tributes pour in honoring his remarkable legacy of empathy and justice.</p>
   </div>
+
+  <!-- Article 2 -->
+  <div class="card">
+    <a class="title" href="global-news/frank-caprio-death.html">
+      Judge Frank Caprio Passes Away: A Legacy of Compassion
+    </a>
+    <div class="meta">August 22, 2025 • Wide Scope Daily</div>
+    <p>Judge Frank Caprio, beloved worldwide for his compassion and fairness in court, has passed away. Tributes pour in honoring his remarkable legacy of empathy and justice.</p>
+  </div>
+
   <!-- Cookie Consent Banner -->
-<div id="cookie-banner" style="position: fixed; bottom: 0; left: 0; width: 100%; background: #0B1A33; color: white; padding: 10px; text-align: center; font-size: 14px; z-index: 9999;">
-  This website uses cookies to improve your experience. 
-  <a href="privacy.html" style="color: #FFD700; text-decoration: underline;">Read Privacy Policy</a>.
-  <button id="accept-cookies" style="background: #FFD700; border: none; color: #0B1A33; padding: 5px 10px; margin-left: 10px; cursor: pointer; font-weight: bold;">Accept</button>
-</div>
+  <div id="cookie-banner" style="position: fixed; bottom: 0; left: 0; width: 100%; background: #0B1A33; color: white; padding: 10px; text-align: center; font-size: 14px; z-index: 9999;">
+    This website uses cookies to improve your experience. 
+    <a href="privacy.html" style="color: #FFD700; text-decoration: underline;">Read Privacy Policy</a>.
+    <button id="accept-cookies" style="background: #FFD700; border: none; color: #0B1A33; padding: 5px 10px; margin-left: 10px; cursor: pointer; font-weight: bold;">Accept</button>
+  </div>
 
-<script>
-  document.getElementById('accept-cookies').addEventListener('click', function() {
-    document.getElementById('cookie-banner').style.display = 'none';
-    localStorage.setItem('cookiesAccepted', 'true');
-  });
+  <script>
+    document.getElementById('accept-cookies').addEventListener('click', function() {
+      document.getElementById('cookie-banner').style.display = 'none';
+      localStorage.setItem('cookiesAccepted', 'true');
+    });
 
-  if (localStorage.getItem('cookiesAccepted')) {
-    document.getElementById('cookie-banner').style.display = 'none';
-  }
-</script>
+    if (localStorage.getItem('cookiesAccepted')) {
+      document.getElementById('cookie-banner').style.display = 'none';
+    }
+  </script>
+
+</body>
+</html>
