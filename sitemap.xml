@@ -23,33 +23,42 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://widescopedaily.github.io/global-news/2025-08-03-kremlin-trump-nuclear-comments.html</loc>
+    <loc>https://widescopedaily.github.io/global-news/frank-caprio-death.html</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://widescopedaily.github.io/global-news/russia-nuclear-response.html</loc>
     <priority>0.6</priority>
   </url>
 
-  <!-- Crypto News -->
+  <!-- Crypto & Finance News -->
   <url>
-    <loc>https://widescopedaily.github.io/crypto-news/</loc>
+    <loc>https://widescopedaily.github.io/crypto-finance-news/</loc>
     <priority>0.8</priority>
   </url>
-  <!-- Example article (replace/add your own if any) -->
-  <!--
   <url>
-    <loc>https://widescopedaily.github.io/crypto-news/your-article-name.html</loc>
+    <loc>https://widescopedaily.github.io/crypto-finance-news/ethereum-price-analysis-2025-08-10.html</loc>
     <priority>0.6</priority>
   </url>
-  -->
 
   <!-- Analysis -->
   <url>
     <loc>https://widescopedaily.github.io/analysis/</loc>
     <priority>0.8</priority>
   </url>
-
-  <!-- Trends -->
   <url>
-    <loc>https://widescopedaily.github.io/trends/</loc>
+    <loc>https://widescopedaily.github.io/analysis/chatgpt-5-analysis.html</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Research -->
+  <url>
+    <loc>https://widescopedaily.github.io/research/</loc>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://widescopedaily.github.io/research/doe-climate-report-response-2025-08-11.html</loc>
+    <priority>0.6</priority>
   </url>
 
 </urlset>
