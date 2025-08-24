@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <!-- Homepage -->
   <url>
     <loc>https://widescopedaily.github.io/</loc>
     <priority>1.0</priority>
   </url>
 
-  <!-- Fact Briefs -->
   <url>
     <loc>https://widescopedaily.github.io/fact-briefs/</loc>
     <priority>0.8</priority>
@@ -17,7 +13,6 @@
     <priority>0.6</priority>
   </url>
 
-  <!-- Global News -->
   <url>
     <loc>https://widescopedaily.github.io/global-news/</loc>
     <priority>0.8</priority>
@@ -31,7 +26,6 @@
     <priority>0.6</priority>
   </url>
 
-  <!-- Crypto & Finance News -->
   <url>
     <loc>https://widescopedaily.github.io/crypto-finance-news/</loc>
     <priority>0.8</priority>
@@ -41,7 +35,6 @@
     <priority>0.6</priority>
   </url>
 
-  <!-- Analysis -->
   <url>
     <loc>https://widescopedaily.github.io/analysis/</loc>
     <priority>0.8</priority>
@@ -51,7 +44,6 @@
     <priority>0.6</priority>
   </url>
 
-  <!-- Research -->
   <url>
     <loc>https://widescopedaily.github.io/research/</loc>
     <priority>0.8</priority>
@@ -60,5 +52,4 @@
     <loc>https://widescopedaily.github.io/research/doe-climate-report-response-2025-08-11.html</loc>
     <priority>0.6</priority>
   </url>
-
 </urlset>
