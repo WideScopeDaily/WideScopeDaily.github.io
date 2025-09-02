@@ -14,24 +14,24 @@
   </url>
 
   <url>
-    <loc>https://widescopedaily.github.io/global-news/</loc>
+    <loc>https://widescopedaily.github.io/global-insights/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://widescopedaily.github.io/global-news/frank-caprio-death.html</loc>
+    <loc>https://widescopedaily.github.io/global-insights/frank-caprio-death.html</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://widescopedaily.github.io/global-news/russia-nuclear-response.html</loc>
+    <loc>https://widescopedaily.github.io/global-insights/russia-nuclear-response.html</loc>
     <priority>0.6</priority>
   </url>
 
   <url>
-    <loc>https://widescopedaily.github.io/crypto-finance-news/</loc>
+    <loc>https://widescopedaily.github.io/crypto-finance/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://widescopedaily.github.io/crypto-finance-news/ethereum-price-analysis-2025-08-10.html</loc>
+    <loc>https://widescopedaily.github.io/crypto-finance/ethereum-price-analysis-2025-08-10.html</loc>
     <priority>0.6</priority>
   </url>
 
